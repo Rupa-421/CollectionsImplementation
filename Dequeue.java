@@ -104,7 +104,7 @@ public class Dequeue<Type>{
                  tail.next=null;
              }
              size--;
-             return element;
+             return element; 
             }
 
             public static  void main(String[] args){
